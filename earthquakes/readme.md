@@ -3,10 +3,10 @@ The earthquakes displayed are from the AZGS Earthquake Catalog, and are the mini
 
 ## Folder contents:
 
-- __earthquakedata.geojson__ [_view_](https://github.com/azgs/hazard-data/blob/master/earthquakedata/earthquakedata.geojson) | [_download_](http://azgs.github.io/hazard-data/earthquakedata/earthquakedata.geojson) : Geographic data representing the locations of earthquake epicenters in Arizona in [GeoJSON format](http://geojson.org).
-- __earthquakedata.csv__ [_view_](https://github.com/azgs/hazard-data/blob/master/earthquakedata/earthquakedata.csv) | [_download_](http://azgs.github.io/hazard-data/earthquakedata/earthquakedata.csv) : Another representation of the geographic data in CSV format.
-- __earthquakedata.zip__ [_download_](http://azgs.github.io/hazard-data/earthquakedata/earthquakedata.zip) : A zipped folder containing the geographic data in shapefile format.
-- __metadata.xml__ [_download_](http://azgs.github.io/hazard-data/earthquakedata/metadata.xml) : Formal ISO 19139 metadata describing this geographic dataset.
+- __earthquakedata.geojson__ [_view_](https://github.com/azgs/hazard-data/blob/master/earthquakes/earthquakedata.geojson) | [_download_](http://azgs.github.io/hazard-data/earthquakes/earthquakedata.geojson) : Geographic data representing the locations of earthquake epicenters in Arizona in [GeoJSON format](http://geojson.org).
+- __earthquakedata.csv__ [_view_](https://github.com/azgs/hazard-data/blob/master/earthquakes/earthquakedata.csv) | [_download_](http://azgs.github.io/hazard-data/earthquakes/earthquakedata.csv) : Another representation of the geographic data in CSV format.
+- __earthquakedata.zip__ [_download_](http://azgs.github.io/hazard-data/earthquakes/earthquakedata.zip) : A zipped folder containing the geographic data in shapefile format.
+- __metadata.xml__ [_download_](http://azgs.github.io/hazard-data/earthquakes/metadata.xml) : Formal ISO 19139 metadata describing this geographic dataset.
 
 ## This is a snapshot of a dynamic dataset
 
